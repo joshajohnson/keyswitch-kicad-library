@@ -77,7 +77,7 @@
   (pad "1" thru_hole circle (at -3.81 -2.54) (size 3.6 3.6) (drill 3.05) (layers *.Cu "B.Mask") (tstamp 36b41372-e288-4b6f-b916-2380da3ef355))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 3.6 3.6) (drill 3.05) (layers *.Cu "B.Mask") (tstamp b026a30e-2cc6-4568-bb23-e41594da8293))
   (pad "2" smd roundrect (at 5.32 -5.08) (size 3.55 2.5) (layers "B.Cu") (roundrect_rratio 0.1) (tstamp dcd551cc-d42d-42cc-b96b-ae6d74511efb))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
+  (model "${KIPRJMOD}/../../keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Hotswap_Kailh_MX.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

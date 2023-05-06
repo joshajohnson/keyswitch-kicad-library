@@ -39,7 +39,7 @@
   (pad "" smd circle (at -3.81 -2.54) (size 1.55 1.55) (layers "F.Mask") (tstamp c9a7bcb4-adde-4f18-b227-da90dfc2cf26))
   (pad "1" thru_hole circle (at -3.81 -2.54) (size 2.5 2.5) (drill 1.5) (layers *.Cu "B.Mask") (tstamp f986029a-0cf1-4352-be56-dbf9c264fb40))
   (pad "2" thru_hole circle (at 2.54 -5.08) (size 2.5 2.5) (drill 1.5) (layers *.Cu "B.Mask") (tstamp ec8d25f7-6427-4c7e-9505-d4c34e9a66d4))
-  (model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+  (model "${KIPRJMOD}/../../keyswitch-kicad-library/library/3dmodels/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
